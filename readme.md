@@ -75,9 +75,9 @@ https://invoke_url/v1/custom/docker?remote=ssh://repository/project.git
 
 ## GitHub
 
-![GitHub webhook integration example](https://github.com/rma945/aws-jenkins-webhooks/raw/develop/.images/github.png "GitHub webhook integration example")
+![GitHub webhook integration example](https://github.com/rma945/aws-jenkins-webhooks/raw/develop/.assets/github.png "GitHub webhook integration example")
 
 
 ## BitBucket
 
-![BitBucket webhook integration example](https://github.com/rma945/aws-jenkins-webhooks/raw/develop/.images/bitbucket.png "BitBucket webhook integration example")
+![BitBucket webhook integration example](https://github.com/rma945/aws-jenkins-webhooks/raw/develop/.assets/bitbucket.png "BitBucket webhook integration example")
